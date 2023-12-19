@@ -9,11 +9,6 @@ Document my progress, challenges faced, and lessons learned each day. 📝
 Why This Repository:
 This repository is a comprehensive collection of my daily Python projects. It's a testament to my dedication to learning, coding, and improving my skills. Join me on this coding journey, where every commit represents a step forward in mastering Python! 🎯
 
-Project Structure:
-
-Each day's project is organized into a separate directory with its own code files, README.md, and any additional resources.
-Code includes comments and explanations to aid understanding and promote learning.
-Regular updates showcase my growth, evolving skills, and commitment to the challenge. 📂 📈
 How You Can Contribute:
 I'm open to feedback, suggestions, and collaborations! Feel free to explore my projects, provide feedback, report issues, or contribute ideas to enhance these projects further. 🤝
 
